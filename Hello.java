@@ -5,6 +5,7 @@ class Hello{
 		System.out.println("--- *** ---");
 		System.out.println("END");
 		System.out.println("User 2 Rizka Fitrah");
+		System.out.println("User 3 Rebecca Kristanto");
 		
 	}
 }
